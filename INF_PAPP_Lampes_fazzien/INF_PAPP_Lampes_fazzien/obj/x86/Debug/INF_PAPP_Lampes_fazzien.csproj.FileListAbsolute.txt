@@ -1,0 +1,26 @@
+H:\PAPP\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\bin\Debug\INF_PAPP_Lampes_fazzien.exe
+H:\PAPP\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\bin\Debug\INF_PAPP_Lampes_fazzien.pdb
+H:\PAPP\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.Properties.Resources.resources
+H:\PAPP\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.csproj.GenerateResource.Cache
+H:\PAPP\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.exe
+H:\PAPP\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.pdb
+H:\PAPP\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.csprojResolveAssemblyReference.cache
+H:\PAPP\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.int_lampes.resources
+G:\Documents\Cloud\Google\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\bin\Debug\INF_PAPP_Lampes_fazzien.exe
+G:\Documents\Cloud\Google\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\bin\Debug\INF_PAPP_Lampes_fazzien.pdb
+G:\Documents\Cloud\Google\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.csprojAssemblyReference.cache
+G:\Documents\Cloud\Google\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.int_lampes.resources
+G:\Documents\Cloud\Google\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.Properties.Resources.resources
+G:\Documents\Cloud\Google\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.csproj.GenerateResource.cache
+G:\Documents\Cloud\Google\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.csproj.CoreCompileInputs.cache
+G:\Documents\Cloud\Google\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.exe
+G:\Documents\Cloud\Google\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.pdb
+S:\Documents\kDrive Perso\Professionnel\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\bin\Debug\INF_PAPP_Lampes_fazzien.exe
+S:\Documents\kDrive Perso\Professionnel\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\bin\Debug\INF_PAPP_Lampes_fazzien.pdb
+S:\Documents\kDrive Perso\Professionnel\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.csprojAssemblyReference.cache
+S:\Documents\kDrive Perso\Professionnel\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.int_lampes.resources
+S:\Documents\kDrive Perso\Professionnel\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.Properties.Resources.resources
+S:\Documents\kDrive Perso\Professionnel\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.csproj.GenerateResource.cache
+S:\Documents\kDrive Perso\Professionnel\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.csproj.CoreCompileInputs.cache
+S:\Documents\kDrive Perso\Professionnel\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.exe
+S:\Documents\kDrive Perso\Professionnel\ETML\Préapprentissage\Projet\Projet Commun\INF_PAPP_Lampes_fazzien\INF_PAPP_Lampes_fazzien\obj\x86\Debug\INF_PAPP_Lampes_fazzien.pdb
